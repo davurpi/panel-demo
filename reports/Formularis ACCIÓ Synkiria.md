@@ -1,6 +1,6 @@
 # Textos per als formularis d'ACCIÓ — Synkiria Physical AI
 
-Esborranys per copiar i enganxar. Revisa'ls abans d'enviar. Els camps entre **[claudàtors]** són dades que no he pogut confirmar i has d'omplir tu: NIF, antiguitat, persona de contacte, etc.
+Esborranys per copiar i enganxar. Revisa'ls abans d'enviar. Els camps entre **[claudàtors]** són dades que no he pogut confirmar i has d'omplir tu: NIF, persona de contacte, etc.
 
 Ordre recomanat d'enviament: **3 → 2 → 1** (primer l'assessorament d'innovació, que t'assigna un tècnic; després DIH4CAT; i la idea europea quan tinguis el tècnic de referència).
 
@@ -16,8 +16,8 @@ Formulari: https://formularis.accio.gencat.cat/web/formularis/inscripcions/-/ins
 - Empresa: Synkiria, S.L.
 - NIF: **[NIF]**
 - CNAE: **[el CNAE de l'empresa; probablement 6201 Activitats de programació informàtica]**
-- Antiguitat: **[2 anys o més / Menys de 2 anys]**
-- Codi postal / Població / Província: **[CP]** / El Vendrell / Tarragona
+- Antiguitat: 2 anys o més (constituïda el 05/02/2020, inscrita al RM de Tarragona el 10/02/2020)
+- Codi postal / Població / Província: 43700 / El Vendrell / Tarragona
 - Sector: Tecnologies de la informació / Programari
 - Web: https://synkiria.com
 
@@ -75,7 +75,7 @@ Formulari: https://formularis.accio.gencat.cat/web/formularis/inscripcions/-/ins
 **Dades de l'empresa**
 - Raó social: Synkiria, S.L. · NIF: **[NIF]**
 - Perfil: Empresa privada (pime)
-- CP / Població / Província: **[CP]** / El Vendrell / Tarragona
+- CP / Població / Província: 43700 / El Vendrell / Tarragona
 - Sector: TIC / Programari
 - Correu i web de l'empresa: **[correu corporatiu]** · https://synkiria.com
 - Volum de negoci: l'opció que inclogui **290.000 €** (menys de 2 M€)
