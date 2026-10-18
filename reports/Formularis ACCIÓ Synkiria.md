@@ -1,6 +1,6 @@
 # Textos per als formularis d'ACCIÓ — Synkiria Physical AI
 
-Esborranys per copiar i enganxar. Revisa'ls abans d'enviar. Els camps entre **[claudàtors]** són dades que no he pogut confirmar i has d'omplir tu: NIF, treballadors, antiguitat, persona de contacte, etc.
+Esborranys per copiar i enganxar. Revisa'ls abans d'enviar. Els camps entre **[claudàtors]** són dades que no he pogut confirmar i has d'omplir tu: NIF, antiguitat, persona de contacte, etc.
 
 Ordre recomanat d'enviament: **3 → 2 → 1** (primer l'assessorament d'innovació, que t'assigna un tècnic; després DIH4CAT; i la idea europea quan tinguis el tècnic de referència).
 
@@ -79,7 +79,7 @@ Formulari: https://formularis.accio.gencat.cat/web/formularis/inscripcions/-/ins
 - Sector: TIC / Programari
 - Correu i web de l'empresa: **[correu corporatiu]** · https://synkiria.com
 - Volum de negoci: l'opció que inclogui **290.000 €** (menys de 2 M€)
-- Nombre de treballadors: **[tram real]**
+- Nombre de treballadors: 3 (tria el tram de menys de 10; és microempresa)
 - Ets proveïdor de solució tecnològica digital? **Sí**
 - Situació respecte a la Indústria 4.0: l'opció equivalent a "proveïdor / integrador"
 - A qui vols dirigir la consulta: **Eurecat** (o "Oficina tècnica" si Eurecat no hi surt)
